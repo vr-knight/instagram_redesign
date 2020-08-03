@@ -1,6 +1,13 @@
 # instagram_redesign
 
-A new Flutter application.
+Redesigned UI of Instagram using Flutter.
+
+![](screenshots/homescreen.jpg)
+![](screenshots/profilescreen.jpg)
+![](screenshots/searchscreen.jpg)
+![](screenshots/camerascreen.jpg)
+![](screenshots/drawerscreen.jpg)
+
 
 ## Getting Started
 
